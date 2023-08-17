@@ -4,7 +4,7 @@
 
 ![](imgg/moonyy.gif)
 
-<img src="imgg/moony.jpg" height="400" width="277" >
+<img src="imgg/moony.jpg" height="360" width="255" >
 
 Design by me <p>
 My primary and main focus was on the visuals and aesthetics of web design.<p>
